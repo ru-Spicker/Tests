@@ -1,0 +1,6 @@
+D:\code\C#_projects\Lerning\Test_Winzor\Test_Winzor\bin\Debug\Test_Winzor.exe.config
+D:\code\C#_projects\Lerning\Test_Winzor\Test_Winzor\bin\Debug\Test_Winzor.exe
+D:\code\C#_projects\Lerning\Test_Winzor\Test_Winzor\bin\Debug\Test_Winzor.pdb
+D:\code\C#_projects\Lerning\Test_Winzor\Test_Winzor\obj\Debug\Test_Winzor.csprojResolveAssemblyReference.cache
+D:\code\C#_projects\Lerning\Test_Winzor\Test_Winzor\obj\Debug\Test_Winzor.exe
+D:\code\C#_projects\Lerning\Test_Winzor\Test_Winzor\obj\Debug\Test_Winzor.pdb

@@ -1,0 +1,6 @@
+D:\code\C#_projects\Lerning\Test_Mediana\Test_Mediana\bin\Debug\Test_Mediana.exe.config
+D:\code\C#_projects\Lerning\Test_Mediana\Test_Mediana\bin\Debug\Test_Mediana.exe
+D:\code\C#_projects\Lerning\Test_Mediana\Test_Mediana\bin\Debug\Test_Mediana.pdb
+D:\code\C#_projects\Lerning\Test_Mediana\Test_Mediana\obj\Debug\Test_Mediana.csprojResolveAssemblyReference.cache
+D:\code\C#_projects\Lerning\Test_Mediana\Test_Mediana\obj\Debug\Test_Mediana.exe
+D:\code\C#_projects\Lerning\Test_Mediana\Test_Mediana\obj\Debug\Test_Mediana.pdb
